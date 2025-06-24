@@ -63,7 +63,7 @@ Omniportal allows you to configure different LLM models for each agent to balanc
   - Efficient for web navigation tasks
   - Good balance of speed and performance
 
-> **Tip**: Feel free to experiment with your own model configurations! Found a great combination? Share it with the community in our [Discord](https://discord.gg/NN3ABHggMK) to help others optimize their setup.
+> **Tip**: Feel free to experiment with your own model configurations!
 
 ## 💡 See It In Action
 
