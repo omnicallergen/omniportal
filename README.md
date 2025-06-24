@@ -2,6 +2,12 @@
 
 Omniportal is an open-source AI web automation tool that runs in your browser. A free alternative to OpenAI Operator with flexible LLM options and multi-agent system.
 
+
+
+https://github.com/user-attachments/assets/06739e84-5f75-48bd-9c90-d306900e031d
+
+
+
 <div>
 
 ## 🔥Why Omniportal?
